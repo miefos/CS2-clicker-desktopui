@@ -1,6 +1,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0">
-    <groupId>edu.buffalo.cse</groupId>
-    <artifactId>cse116</artifactId>
+    <groupId>bitl.rbs.lv</groupId>
+    <artifactId>cs2</artifactId>
     <modelVersion>4.0.0</modelVersion>
     <url>http://maven.apache.org</url>
     <version>0.0.1</version>
